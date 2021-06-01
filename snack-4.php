@@ -7,7 +7,7 @@ lo stesso numero più di una volta -->
 
 $newArr = [];
 $length = 15;
-$min = 0;
+$min = 1;
 $max = 100;
 
     while (count($newArr) < $length) {
